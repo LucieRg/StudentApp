@@ -33,6 +33,7 @@ Avant d'exécuter l'application, assurez-vous d'avoir :
 3. Afficher les étudiants par classe
 4. Supprimer un étudiant
 5. Quitter
+   
 Votre choix : 1
 Nom : Dupont
 Prénom : Jean
