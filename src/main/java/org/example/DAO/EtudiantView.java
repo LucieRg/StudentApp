@@ -9,8 +9,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class EtudiantView {
-    private EtudiantService etudiantService;
-    private Scanner scanner;
+    private final EtudiantService etudiantService;
+    private final Scanner scanner;
 
     public EtudiantView(Connection connection) {
         this.etudiantService = new EtudiantService(connection);

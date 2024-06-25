@@ -8,7 +8,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 public class EtudiantService {
-    private EtudiantDAO etudiantDAO;
+    private final EtudiantDAO etudiantDAO;
 
     public EtudiantService(Connection connection) {
         this.etudiantDAO = new EtudiantDAO(connection);
