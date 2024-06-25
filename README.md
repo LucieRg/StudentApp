@@ -35,8 +35,8 @@ Avant d'exécuter l'application, assurez-vous d'avoir :
 5. Quitter
    
 Votre choix : 1
-Nom : Dupont
-Prénom : Jean
-Numéro de classe : 3
-Date de diplôme (AAAA-MM-JJ) : 2024-06-01
-Étudiant ajouté avec succès !
+- Nom : Dupont
+- Prénom : Jean
+- Numéro de classe : 3
+- Date de diplôme (AAAA-MM-JJ) : 2024-06-01
+- Étudiant ajouté avec succès !
